@@ -1,0 +1,41 @@
+# Notes on ASCII, UTF-8, Morse Code, TypeScript, and Ruby
+
+## 1. ASCII (American Standard Code for Information Interchange)
+- Maps **128 characters** (0–127) to numbers.
+- Covers English letters, digits, punctuation, and control characters.
+- Backbone of **early Internet protocols**: SMTP, HTTP, FTP.
+- Example: `"A"` = 65 (decimal) = `01000001` (binary).
+- Limitation: No support for accents, Asian languages, emojis.
+
+---
+
+## 2. UTF-8 (Unicode Transformation Format)
+- Encoding system for **Unicode**, which supports 140k+ characters.
+- Stores characters in **1–4 bytes**.
+- ASCII characters are compatible (0–127).
+- Powers **95%+ of websites** today.
+- Examples:
+  - `"A"` = `01000001` (1 byte).
+  - `"ñ"` = `11000011 10110001` (2 bytes).
+  - `"😂"` = `11110000 10011111 10011000 10000010` (4 bytes).
+
+---
+
+## 3. Morse Code
+- Uses **dots (.) and dashes (-)** to encode characters.
+- `"A"` = `.-`, `"SOS"` = `... --- ...`.
+- Conceptual ancestor to binary encoding (signal on/off).
+- Important historically for **transmission & encoding principles**.
+
+---
+
+## 4. ASCII/UTF in JavaScript & TypeScript
+- **JavaScript strings** use **UTF-16**, not ASCII.
+- ASCII (0–127) works fine, but issues appear with characters outside the BMP.
+- Example:
+  ```js
+  console.log("ñ".length); // 1
+  console.log("😂".length); // 2 (surrogate pair issue)
+
+
+Ruby and type script learning over the weekend
