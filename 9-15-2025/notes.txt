@@ -1,0 +1,41 @@
+The Restful API 1.(1):  1.GET   2.POST   3.PUT   4.PATCH    5.DELETE
+
+1.(2)- 1. Communication 2. Teamwork 3. Customer Focus 4.Leadership/Influence 5.Critical Thinking/ Problem Solving
+
+1.(3) 1. Integrity 2. Work Ethic 3. Vision 4. Ambition 5/ Common Sense
+
+Starting off class with lab 2 
+Build Your VPC and lanch a web server
+Fred Cibelli is very importatnt to job seekers 
+as one of the big 4 firm leders president of earnst and young 
+Our focus in class is to build attitudes and skills that commensurate
+ with earining 10k a month to avoid financial discomfort
+
+the non negotionables are integrity and work ethic 
+
+jhon maxwell leadership is influence nothing more nothing less
+leadership isnt about having a title or position its the ability to inspire 
+others to action
+Et718.com is a great source o guide students on their future endavors 
+because there are high skills that are within 
+prof opinion-
+what has changed for im in the last 3 months he came to the conclusion that humans should never write production code 
+and humans should never write ai prompts (prompt engineering)
+The Map approach is revolutionary
+The Way to go about it would be to have a conversation to make the obective clear to ai 
+then ask ai to give you a clear summary of what you had talked about  constructed in  a proper way 
+then continue to ask for a prompt via the constructed outline given 
+set ground rules so that you can have a base to work on and not break the code
+Parameter storement secret manager
+enviroment variables are hardqare dependent security risk no version control and 
+inconsistent
+it is important to set guard rails for ai for those reasons
+make party rock take the contents of this class to generate a 10 question quiz from the transcript 
+meta skill  development 
+secrets manager prevents ai from loosing the thought/ previous coversatations.
+
+THings You will be working with 
+
+People  1. Forming a Team, 2. Storming / Issues  3. Norming / normalize 4. Performing
+Process 1. Initiating  2.Planning  3. Executing   4.Monitoring  5.Closing
+Technology 1. Adoption  2. Integration  3. Automation  4.Optimization  5.Innovation

@@ -1,3 +1,10 @@
+The Restful API:  GET POST PUT PATCH DELETE
+
+1.-Communication 2. Teamwork 3. Customer Focus 4.Leadership/Influence 5.Critical Thinking Problem Solving
+
+1 Integrity 2 Work Ethic 3 Vision 4 Ambition 5 Common Sense
+
+
 # Notes on ASCII, UTF-8, Morse Code, TypeScript, and Ruby
 
 ## 1. ASCII (American Standard Code for Information Interchange)
