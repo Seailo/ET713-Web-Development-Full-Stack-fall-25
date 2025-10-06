@@ -1,0 +1,22 @@
+The Restful API 1.(1):  1.GET   2.POST   3.PUT   4.PATCH    5.DELETE
+
+1.(2)- 1. Communication 2. Teamwork 3. Customer Focus 4.Leadership/Influence 5.Critical Thinking/ Problem Solving
+
+1.(3) 1. Integrity 2. Work Ethic 3. Vision 4. Ambition 5/ Common Sense
+
+Rails MVC(model view controler), REST (get post put patch delete), ORM (Object relational modeling)
+
+grpc google remote procedure calls 
+
+od not nickel and dime when it comes to education 
+
+https://serverlessland.com/repos/innovator-island
+
+the layout for websites without a server 
+
+half grade point
+
+Curent Grade points 
+PartyRock Application +1/2
+DAvid mannes +1/2
+Term Project 
