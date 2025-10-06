@@ -20,3 +20,15 @@ Curent Grade points
 PartyRock Application +1/2
 DAvid mannes +1/2
 Term Project 
+
+
+ sudo yum install -y libyaml-devel
+
+gem install rails
+cd skillfair
+rails server
+go to development rb in the config and enviroments section
+
+css framework 
+java script framework 
+and backend framework
